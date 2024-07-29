@@ -1,0 +1,13 @@
+.website-title {
+    text-align: center;
+}
+
+h1, h2 {
+    color: green;
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+.pages {
+    text-align: center;
+    font-family: Georgia;
+}
